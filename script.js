@@ -3314,7 +3314,7 @@ let projectData = [
 		projectUrl: 'public/css-transform.html',
 	},
 	{
-		projectName: 'Hover Board',
+		projectName: 'surf Board',
 		projectImage: 'assets/Images/Checkers.png',
 		projectUrl: 'public/Checkers_game.html',
 	},
